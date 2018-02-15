@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/captivationsoftware/react-sticky",
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.0",
@@ -41,9 +41,10 @@
     "chai": "^3.2.0",
     "jsdom": "8.0.4",
     "mocha": "^2.2.5",
-    "react-addons-test-utils": "^0.14.0 || ^15.0.0",
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-addons-test-utils": "^16.0.0",
+    "react-dom": "^16.0.0",
     "rimraf": "^2.5.2",
     "webpack": "^1.12.14"
   }
